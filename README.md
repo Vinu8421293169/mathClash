@@ -1,2 +1,0 @@
-# mathClash
-Created with CodeSandbox
